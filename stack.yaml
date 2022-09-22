@@ -1,6 +1,7 @@
 resolver: lts-18.27
 
 packages:
+- esqueleto-postgresql-ltree
 - persistent-postgresql-ltree
 - postgresql-ltree
 - postgresql-simple-ltree
